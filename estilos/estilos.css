@@ -230,4 +230,8 @@ h3 {
         vertical-align: middle;
         align-items: center;
     }
+
+    .menu-restaurante {
+        width: 90%;
+    }
 }
